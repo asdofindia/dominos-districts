@@ -1,0 +1,6 @@
+downloads/
+node_modules/
+sitemap_store.xml
+*.geojson
+data.json
+answer.json
